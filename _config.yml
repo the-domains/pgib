@@ -1,0 +1,14 @@
+layout_spectrum: 0.08422939
+color:
+  saturation: 0.3291591
+  brandStrength: 0.6200717
+  lightness: 0.7706093
+  brandColors:
+    - '#CFBD9A'
+    - '#6E676C'
+    - '#87A5B2'
+    - '#A3906F'
+    - '#F2E8E2'
+  rhythmicContrast: 0.9316455
+typography_spectrum: 0.2401434
+name: pgib
