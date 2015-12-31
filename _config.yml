@@ -1,14 +1,28 @@
-layout_spectrum: 0.08422939
-color:
-  saturation: 0.3291591
-  brandStrength: 0.6200717
-  lightness: 0.7706093
-  brandColors:
-    - '#CFBD9A'
-    - '#6E676C'
-    - '#87A5B2'
-    - '#A3906F'
-    - '#F2E8E2'
-  rhythmicContrast: 0.9316455
-typography_spectrum: 0.2401434
 name: pgib
+favicon: null
+layout_spectrum: 0.08422939
+typography_spectrum: 0.2401434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#bebebe'
+    - '#585858'
+    - '#00ffff'
+    - '#ef2579'
+  brandStrength: 0.625
+  lightness: 0.7706093
+  saturation: 0.3291591
+  rhythmicContrast: 0.9316455
+purpose: []
