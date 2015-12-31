@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T01:06:42.434Z'
-dateModified: '2015-10-24T05:10:27.087Z'
+datePublished: '2015-12-31T01:10:02.766Z'
+dateModified: '2015-12-31T01:09:55.726Z'
 author:
   - name: pgib
     url: 'https://instagram.com/pgib'
@@ -36,4 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+Peace Portal Drive is a lovely street in a border town of Blaine. Views like this are fairly typical.
 ![A nice, Blaine sunset.](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s640x640/sh0.08/e35/11849232_973436496049645_1095282254_n.jpg)
